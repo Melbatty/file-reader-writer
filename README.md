@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Reader Writer
 
 This Java project provides a simple utility for reading a file and writing its content to another file.
@@ -21,3 +22,7 @@ This Java project provides a simple utility for reading a file and writing its c
    ./runner.sh <inputFilePath> <outputDirectory>
  ```
 
+=======
+# file-reader-writer
+This project will allow us to read a file and write on another new file
+>>>>>>> 8ff7e8372988b03016c6de6c2625fd3aef48bfef
